@@ -1,7 +1,7 @@
 {
-  "name": "CHATS-blockchain",
+  "name": "supplychain",
   "version": "1.0.0",
-  "description": "ERC20 Stablecoin integration with Convexity Humanitarian Aids Transfer Solution",
+  "description": "",
   "main": "server.js",
   "directories": {
     "test": "test"
@@ -53,14 +53,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://gitlab.com/convexityteam/token-chats.git"
+    "url": ""
   },
   "keywords": [
-    "Blockchain",
-    "Stablecoin",
-    "ERC20",
-    "Token"
+    "Blockchain"
   ],
-  "author": "Charles Okaformbah - CHATS Blockchain Team",
+  "author": "",
   "license": "ISC"
 }
