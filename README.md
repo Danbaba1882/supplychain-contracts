@@ -1,1 +1,9 @@
-sudo npx hardhat verify --network mumbai 0x73a7EB02E144e17ae28EAEe848671290399f0A48
+## Introduction 
+
+# Getting Started
+1.	Nodejs ^10
+2.	Openzeppelin contract upgradeablity
+
+## Build and Test
+1. npm i
+2. npm start 
