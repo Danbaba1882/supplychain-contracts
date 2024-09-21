@@ -8,7 +8,7 @@ module.exports = {
   networks: {
     mumbai: {
       url: "https://data-seed-prebsc-1-s1.binance.org:8545",
-      accounts: [""]
+      accounts: ["0cef0c137c64172ed1f9acf5aaae51b8c78663a094a7c80a930564235e934ebf"]
     },
   //   polygon: {
   //     url: process.env.BLOCKCHAINSERV,
